@@ -1,0 +1,13 @@
+{
+    "parent": "block/orientable",
+    "textures": 
+    {
+        "particle": "sgextras:blocks/block_activator_front",
+        "up": "sgextras:blocks/block_activator_side",
+        "down": "sgextras:blocks/block_activator_side",
+        "north": "sgextras:blocks/block_activator_front",
+        "south": "sgextras:blocks/block_activator_side",
+        "east": "sgextras:blocks/block_activator_side",
+        "west": "sgextras:blocks/block_activator_side"
+    }
+}

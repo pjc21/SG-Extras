@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sgextras",
+  "name": "SG Extras",
+  "description": "Adds in some commands to help pre-generate Stargates in specified dimensions.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pjc21"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
