@@ -614,6 +614,11 @@ public class EventListener
 				{
 					if(loot != null)
 					{
+						if(event.getTable().getPool("sg_address") != null)
+						{
+							event.getTable().removePool("sg_address");
+						}
+						
 						event.getTable().addPool(loot.getPool("sg_address"));
 					}
 				}
